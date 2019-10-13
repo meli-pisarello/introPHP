@@ -33,5 +33,5 @@ echo "<br><br>";
 // variable de tipo objecto
 $objeto = (object)["mueble1"=>"armario", "mueble2" => "escritorio"];
 
-echo $objeto->mueble2
+echo $objeto->mueble1
 ?>
